@@ -1,0 +1,17 @@
+[
+  {"query_id": "q01", "query_text": "¿Cómo terminó el conflicto laboral de Acerinox en Cádiz?"},
+  {"query_id": "q02", "query_text": "Busco noticias sobre vuelos afectados por protestas del personal de Iberia durante las fiestas."},
+  {"query_id": "q03", "query_text": "¿Qué medidas y protestas hay para mejorar los salarios en Inditex y sus cadenas como Zara o Lefties?"},
+  {"query_id": "q04", "query_text": "¿Qué planes tiene BBVA para reducir puestos de trabajo en España?"},
+  {"query_id": "q05", "query_text": "¿Qué proyectos usan hidrógeno limpio para producir bienes o abastecer instalaciones industriales?"},
+  {"query_id": "q06", "query_text": "Busco iniciativas de hidrógeno para sustituir combustibles convencionales en el transporte."},
+  {"query_id": "q07", "query_text": "¿Qué consecuencias legales o económicas han tenido los derrames de petróleo?"},
+  {"query_id": "q08", "query_text": "Busco iniciativas empresariales que conviertan desechos en materiales o energía aprovechables."},
+  {"query_id": "q09", "query_text": "¿Qué acuerdos permiten a empresas abastecerse de electricidad renovable?"},
+  {"query_id": "q10", "query_text": "¿Cómo está ampliando Iberdrola su actividad eólica en México?"},
+  {"query_id": "q11", "query_text": "Busco sanciones a CaixaBank por usar o revelar indebidamente información de sus clientes."},
+  {"query_id": "q12", "query_text": "¿Qué casos hay de personas sancionadas por aprovechar o divulgar información bursátil que otros inversores no tenían?"},
+  {"query_id": "q13", "query_text": "¿Por qué está siendo cuestionada la información financiera publicada por Grifols?"},
+  {"query_id": "q14", "query_text": "Busco casos de directivos apartados por incumplir normas éticas en una operación empresarial."},
+  {"query_id": "q15", "query_text": "Busco emisiones de deuda de Iberdrola para obtener financiación."}
+]

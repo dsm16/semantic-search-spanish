@@ -1,0 +1,17 @@
+[
+  {"query_id": "q01", "relevant_event_ids": ["f7df4121-4e08-4a3f-8960-041a9c1a696a", "ab29d61e-95c5-4200-b3ef-7155a504044b"]},
+  {"query_id": "q02", "relevant_event_ids": ["76ff9d7c-0201-42f0-bc8f-cc113ea203e6", "9bd5b139-1f39-4c74-88c8-71d7c7b60cba", "d6bfeb05-bc1f-4efa-89bf-4590795e80a1", "9403f80c-2388-481b-bac0-36433fe1e479", "b0acb3dd-9f83-48b1-9a7f-976b377e5fd2"]},
+  {"query_id": "q03", "relevant_event_ids": ["b81e6136-0e17-4ab5-a602-bee841adad04", "25f28fce-9db6-41d5-9d0c-a6c5de1cdaae", "0b7f62cf-b5b4-4597-97c9-1b293680172c", "090f9b2b-f2d0-4e25-88c1-a5743af58a69", "343b2f1b-c17c-4e47-9477-a65af32976d3", "fda670c1-f639-4639-9d51-8d9b0607bbb4"]},
+  {"query_id": "q04", "relevant_event_ids": ["7a48b325-132a-4174-8135-26cc2a58f383", "27f88c28-cfad-43ba-bade-f08510b9bb58", "01ecb878-fed2-4bde-82ff-a9522352aeb2"]},
+  {"query_id": "q05", "relevant_event_ids": ["1a4268bf-142e-45bc-80fd-be1332cfc854", "78ff0ac2-ece4-4e8a-9bd1-107811b7700d", "50f66d07-6268-4f2b-ac89-04fccc20f672"]},
+  {"query_id": "q06", "relevant_event_ids": ["6a514f1e-97d6-45f9-906a-0299c2b633aa"]},
+  {"query_id": "q07", "relevant_event_ids": ["ca6220bc-ac59-48a7-8dc3-507347b797c1", "7a2f0593-0018-47b4-b7a6-7433cf76fa10", "4828d6d1-bae4-4d6a-9554-b4ccb07260f6"]},
+  {"query_id": "q08", "relevant_event_ids": ["acc717cc-0d5f-4bb2-8b87-3954d621a362", "f7590b9a-567c-45be-819f-9ce6633e57f2", "8cd90b69-da5b-47ef-a5db-18b70cec9b69"]},
+  {"query_id": "q09", "relevant_event_ids": ["c17f2df8-f1f5-4ade-bcd9-e21c21a48d88", "92d9df3a-b796-43cc-bd8e-003a3d1e28a0", "3efc8826-dbd9-41fe-ba0c-b4bbba8ecd95"]},
+  {"query_id": "q10", "relevant_event_ids": ["ba238ced-2a41-4267-8768-325fe3216944", "00759066-be7f-4af3-9ec6-823f964dcbbb"]},
+  {"query_id": "q11", "relevant_event_ids": ["50a68472-cb8a-4a28-85bf-b4d88c91f65f", "a671c3ad-fad6-4ea4-aacf-85582d411f06", "b705217d-b3fa-4947-abd2-641f71b4c431"]},
+  {"query_id": "q12", "relevant_event_ids": ["781a7af3-3512-4d7c-aa61-58f8c671b113", "218d775f-5c56-43d2-9567-6173fd27d65f"]},
+  {"query_id": "q13", "relevant_event_ids": ["71679c77-68b7-4d45-8242-b82b49307227", "23345db4-d218-4d2f-a0a4-ba9f0a9eb7f6"]},
+  {"query_id": "q14", "relevant_event_ids": ["68337fa0-3b2b-4840-847a-a2bba6cefad0"]},
+  {"query_id": "q15", "relevant_event_ids": ["fe40245f-c1c7-4a8b-a588-db159ecb1e59", "ab38d02c-080c-4d3b-8a0c-4f6b19bd7fc2", "f4175faa-4999-4ad4-85c9-c81e75f2105f", "33b7d7b6-2c40-4b81-ba4f-4cf80fce036b"]}
+]

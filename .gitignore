@@ -1,0 +1,67 @@
+# Original assignment and professor-provided data: never publish.
+/_originals/
+
+# External datasets remain local. Deny dataset files by default.
+*.csv
+*.tsv
+*.parquet
+*.arrow
+*.feather
+*.jsonl
+*.ndjson
+*.xlsx
+*.xls
+*.sqlite
+*.db
+/data/
+/datasets/
+/private/
+/local/
+**/private_data/
+**/local_data/
+
+# Generated artifacts may contain private text or embeddings.
+/artifacts/
+/results/
+/outputs/
+/runs/
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.joblib
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Model and tool caches.
+/.cache/
+/cache/
+/model_cache/
+/models/
+/hf_cache/
+/.huggingface/
+/.torch/
+**/.ipynb_checkpoints/
+**/__pycache__/
+*.py[cod]
+/.pytest_cache/
+/.mypy_cache/
+/.ruff_cache/
+.coverage
+htmlcov/
+
+# Environments, packaging, local configuration.
+/.venv/
+/venv/
+/env/
+/ENV/
+/.env/
+.env
+.env.*
+*.egg-info/
+/build/
+/dist/
+.DS_Store
+Thumbs.db
